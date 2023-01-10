@@ -30,6 +30,7 @@ public class makine {
                 break;
             default:
                 System.out.println("lütfen geçerli bir seneçek giriniz");
+                System.out.println("lütfen geçerli bir seneçek giriniz");
        }
 
     }
